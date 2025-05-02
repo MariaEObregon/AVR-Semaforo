@@ -50,4 +50,4 @@ Este projeto faz parte de uma atividade acadêmica e tem como objetivo a aplica�
 
 | 🚦 Simulação no SimulIDE: |
 |:----------------------------------------------------------------:|
-| ![EstrelaTriangulo](EstrelaTriangulo.gif)                                   |
+| ![SemaforoPedestre](SemaforoPedestre.gif)                                   |
