@@ -37,14 +37,14 @@ Este projeto faz parte de uma atividade acadêmica e tem como objetivo a aplica�
 
 🗺️ Mapa de entradas e saídas:
 
-| Função  | Dispositivo   | Descrição                         | Pino (Arduino Uno) | Pino (ATmega328P) | PORT |
-| :------ | :------------ | :-------------------------------- | :----------------- | :-----------------|:-----|
-| Entrada | Botão      | Desliga sistema de comando       | 8                  | 15                | PB1  |
-| Saída   | K1            | Contator K1                       | 9                 | 16                | PB5  |
-| Saída | Botão S1      | Liga sistema de comando          | 10                 | 17                | PB2  |
-| Saída   | K3            | Contator K3                       | 11                 | 18                | PB3  |
-| Saída   | K2            | Contator K2                       | 12                 | 19                | PB4  |
-| Saída   | K1            | Contator K1                       | 13                 | 20                | PB5  |
+| Função  | Dispositivo       | Descrição         | Pino (Arduino Uno) | Pino (ATmega328P) | PORT |
+| :------ | :---------------- | :-----------------| :----------------- | :-----------------|:-----|
+| Entrada | Botão             | Botão do pedestre | 8                  | 14                | PB0  |
+| Saída   | LED Vermelho      | Vermelho Pedestre | 9                  | 15                | PB1  |
+| Saída   | LED Verde         | Verde Pedestre    | 10                 | 16                | PB2  |
+| Saída   | LED Vermelho      | Vermelho Semáforo | 11                 | 17                | PB3  |
+| Saída   | LED Amarelo       | Amarelo Semáforo  | 12                 | 18                | PB4  |
+| Saída   | LED Verde         | Verde Semáforo    | 13                 | 19                | PB5  |
 
 
 
