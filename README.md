@@ -40,11 +40,11 @@ Este projeto faz parte de uma atividade acadêmica e tem como objetivo a aplica�
 | Função  | Dispositivo       | Descrição               | Pino (Arduino Uno) | Pino (ATmega328P) | PORT |
 | :------ | :---------------- | :-----------------------| :----------------- | :-----------------|:-----|
 | Entrada | Botão             | Botão do pedestre (B)   | 8                  | 14                | PB0  |
-| Saída   | LED Vermelho      | Vermelho Pedestre (VMP) | 9                  | 15                | PB1  |
-| Saída   | LED Verde         | Verde Pedestre    (VDP) | 10                 | 16                | PB2  |
+| Saída   | LED Verde         | Verde Semáforo (VDS)    | 9                  | 15                | PB1  |
+| Saída   | LED Amarelo       | Amarelo Semáforo (AS)   | 10                 | 16                | PB2  |
 | Saída   | LED Vermelho      | Vermelho Semáforo (VMS) | 11                 | 17                | PB3  |
-| Saída   | LED Amarelo       | Amarelo Semáforo  (AS)  | 12                 | 18                | PB4  |
-| Saída   | LED Verde         | Verde Semáforo    (VDS) | 13                 | 19                | PB5  |
+| Saída   | LED Verde         | Verde Pedestre    (VDP) | 12                 | 18                | PB4  |
+| Saída   | LED Vermelho      | Vermelho Pedestre (VMP) | 13                 | 19                | PB5  |
 
 
 
