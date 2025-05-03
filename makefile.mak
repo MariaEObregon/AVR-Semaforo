@@ -1,6 +1,6 @@
 COM=COM5
 BAUDRATE=115200
-PROJECT=semaforo
+PROJECT=AVR-Semaforo
 DEVICE=ATmega328P
 
 CC_PATH="C:\Program Files\Microchip\xc8\v3.00\bin"
